@@ -23,15 +23,16 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](60935396_1718755354937741_1905648285968760832_o.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purushottam22/purushottam22.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+
+- [Email](mailto:kumarpurushottam062@gmail.com/)
+- [LinkedIn](https://*) 
