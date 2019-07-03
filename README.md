@@ -1,6 +1,7 @@
 ## About Me
 
-Hello, I am Purushottam Kumar, a third year computer science undergrad at NIT Durgapur. [editor on GitHub](https://github.com/purushottam22/purushottam22.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Hello, I am Purushottam Kumar, a third year computer science undergrad at NIT Durgapur. [editor on GitHub](https://github.com/purushottam22/purushottam22.github.io/edit/master/README.md) to maintain and preview the content for your ebsite in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
