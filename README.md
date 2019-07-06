@@ -5,9 +5,12 @@ Hello, I am Purushottam Kumar, a third year computer science undergraduate stude
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
 
-### Experience
-- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -
-10th july 2019.
+###  Interest
+- Machine Learning
+- Competative Coding
+
+### Internship
+- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
@@ -21,8 +24,8 @@ Libre Office, Latex.
 - _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
 - _Convenor_ of **'[THINK INDIA](https://www.facebook.com/thinkIndiaWB/)- NIT Durgapur'**.
 
+#### My latest resume is [here]()
 ### Connect With Me
-
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
 - [Twitter](https://twitter.com/Purushottam_nit)
