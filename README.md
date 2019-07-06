@@ -1,7 +1,7 @@
 ### About Me
 
 
-Hello, I am Purushottam Kumar, a third year computer science undergraduate student at [National Institute of Technology, Durgapur](https://nitdgp.ac.in/) 
+Hello, I am Purushottam Kumar, a third year computer science undergraduate student at [NIT, Durgapur](https://nitdgp.ac.in/) 
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
 
