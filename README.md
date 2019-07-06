@@ -1,11 +1,11 @@
-## About Me
+### About Me
 
 
 Hello, I am Purushottam Kumar, a third year computer science undergraduate student at National Institute of Technology, Durgapur. 
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
 
-## Experience
+### Experience
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at IIT Patna in 14th may -
 10th july 2019.
 
@@ -16,6 +16,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Good knowledge of working on Linux and Windows Operation systems.
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,
 Libre Office, Latex.
+
 #### Position of responsibility:
 - _Co. Management Head_ of Hindi club **‘DARPAN’**.
 - _Convenor_ of **‘THINK INDIA – NIT DURGAPUR’**.
