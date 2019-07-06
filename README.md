@@ -1,12 +1,12 @@
 ### About Me
 
 
-Hello, I am Purushottam Kumar, a third year computer science undergraduate student at National Institute of Technology, Durgapur. 
+Hello, I am Purushottam Kumar, a third year computer science undergraduate student at [National Institute of Technology, Durgapur](https://nitdgp.ac.in/) 
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
 
 ### Experience
-- **“Author Profiling in Social media based dataset using Deep learning techniques”** at IIT Patna in 14th may -
+- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -
 10th july 2019.
 
 #### Technical Skills:
@@ -18,8 +18,8 @@ I commit myself and ensure that I will make a positive contribution with full de
 Libre Office, Latex.
 
 #### Position of responsibility:
-- _Co. Management Head_ of Hindi club **‘DARPAN’**.
-- _Convenor_ of **‘THINK INDIA – NIT DURGAPUR’**.
+- _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
+- _Convenor_ of **'[THINK INDIA](https://www.facebook.com/thinkIndiaWB/)- NIT Durgapur'**.
 
 ### Connect With Me
 
