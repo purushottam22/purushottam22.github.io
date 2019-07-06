@@ -9,7 +9,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at IIT Patna in 14th may -
 10th july 2019.
 
-#### Skills and Weakness:
+#### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
 - Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2.
