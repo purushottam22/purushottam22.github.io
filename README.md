@@ -21,8 +21,9 @@ Libre Office, Latex.
 - _Co. Management Head_ of Hindi club **‘DARPAN’**.
 - _Convenor_ of **‘THINK INDIA – NIT DURGAPUR’**.
 
-### Contact
+### Connect With Me
 
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
 - [Twitter](https://twitter.com/Purushottam_nit)
+- [FaceBook](https://www.facebook.com/purushottam22111999?ref=bookmarks)
