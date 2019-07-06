@@ -37,4 +37,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact
 
 - [Email](mailto:kumarpurushottam062@gmail.com/)
-- [LinkedIn](https://*) 
+- [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a) 
+- [Twitter](https://www.linkedin.com/in/purushottam-kumar-29006017a) 
