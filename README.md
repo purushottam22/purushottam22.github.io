@@ -3,7 +3,7 @@
 
 Hello, I am Purushottam Kumar, a third year computer science undergraduate student at [NIT, Durgapur](https://nitdgp.ac.in/) 
 
-I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
+I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm.  
 
 ###  Interest
 - Machine Learning
