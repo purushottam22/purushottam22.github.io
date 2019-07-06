@@ -1,4 +1,7 @@
+title: [Purushottam Kumar]
+description: [ I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.]
 
+logo: [https://purushottam22.github.io/60935396_1718755354937741_1905648285968760832_o.jpg]
 ![Image](https://purushottam22.github.io/60935396_1718755354937741_1905648285968760832_o.jpg)
 ## About Me
 
