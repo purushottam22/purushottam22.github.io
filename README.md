@@ -24,7 +24,7 @@ Libre Office, Latex.
 - _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
 - _Convenor_ of **'[THINK INDIA](https://www.facebook.com/thinkIndiaWB/)- NIT Durgapur'**.
 
-#### My latest resume is [here]()
+#### My latest resume is [here](CV_Purushottam.pdf)
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
