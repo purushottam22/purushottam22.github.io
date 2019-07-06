@@ -2,30 +2,8 @@
 
 
 Hello, I am Purushottam Kumar, a third year computer science undergraduate student at National Institute of Technology, Durgapur. 
-I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.    
-## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://purushottam22.github.io/60935396_1718755354937741_1905648285968760832_o.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I commit myself and ensure that I will make a positive contribution with full devotion to achieve organizational goals through my knowledge, skill, hard work and enthusiasm.  
 
 ## Experience
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at IIT Patna in 14th may -
@@ -39,8 +17,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,
 Libre Office, Latex.
 #### Position of responsibility:
-- Co. Management Head of Hindi club ‘DARPAN’.
-- **Convenor** of **‘THINK INDIA – NIT DURGAPUR’**.
+- _Co. Management Head_ of Hindi club **‘DARPAN’**.
+- _Convenor_ of **‘THINK INDIA – NIT DURGAPUR’**.
 
 ### Contact
 
