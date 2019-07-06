@@ -24,6 +24,8 @@ Libre Office, Latex.
 - _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
 - _Convenor_ of **'[THINK INDIA](https://www.facebook.com/thinkIndiaWB/)- NIT Durgapur'**.
 
+#### Extracurricular activities:
+I love watching superheroes movies. I play cricket and Table Tennis. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
 #### My latest resume is [here](https://github.com/purushottam22/purushottam22.github.io/blob/master/CV_Purushottam.pdf)
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
