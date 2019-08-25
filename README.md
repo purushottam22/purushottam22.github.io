@@ -20,6 +20,11 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,
 Libre Office, Latex.
 
+### Featured Skills:
+- Stegnography
+- Cryptography
+- Deep Learning
+
 #### Position of responsibility:
 - _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
 - _Convenor_ of **'[THINK INDIA](https://www.facebook.com/thinkIndiaWB/)- NIT Durgapur'**.
