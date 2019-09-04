@@ -7,7 +7,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ###  Interest
 - Machine Learning
-- Competative Coding
+- Competitive Coding
 
 ### Internship
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
