@@ -15,6 +15,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ### Academic Projects
 - **Currently working on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) from 10th Dec, 2019.
+- **Currently working on 'Water marking in images'.**
 - **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) from Aug 2019 to Oct 2019.
 
 #### Technical Skills:
@@ -28,11 +29,12 @@ Libre Office, Latex.
 ### Featured Skills:
 - Stegnography
 - Cryptography
+- Game Theory
 - Deep Learning
 
 #### Position of responsibility:
 - _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
--
+- _Convernor_ of **Think India - NIT Durgapur.**
 
 
 #### Extracurricular activities:
