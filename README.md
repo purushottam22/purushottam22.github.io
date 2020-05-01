@@ -14,8 +14,9 @@ I commit myself and ensure that I will make a positive contribution with full de
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
 
 ### Academic Projects
-- **Currently working on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) from 10th Dec, 2019.
-- **Currently working on 'Water marking in images'.**
+- **Currently working on Blockchain.**
+- **Completed a project on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) from 10th Dec, 2019.
+- **Completed a project on 'Water marking in images'.**
 - **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) from Aug 2019 to Oct 2019.
 
 #### Technical Skills:
