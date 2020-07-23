@@ -8,7 +8,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ### Internship
 - **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
--**"Secure Academic certificate using blockchain"** at [NIT DUrgapur](https://nitdgp.ac.in) during May-July 2020.
+- **"Secure Academic certificate using blockchain"** at [NIT DUrgapur](https://nitdgp.ac.in) during May-July 2020.
 
 ### Academic Projects
 - **Completed a project on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
@@ -26,8 +26,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
 - Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2, Solidity.
 - Good knowledge of working on Linux and Windows Operation systems.
-- Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,
-Libre Office, Latex.
+- Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex.
 
 ### Featured Skills:
 - Stegnography
