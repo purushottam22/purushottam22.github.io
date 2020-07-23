@@ -3,7 +3,7 @@ Hello, I am Purushottam Kumar, a fourth year computer science undergraduate stud
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Publication
--**"Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019"**.
+- **"Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019"**.
 
 
 ### Internship
