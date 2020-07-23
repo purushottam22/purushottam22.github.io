@@ -1,28 +1,30 @@
-### About Me
+Hello, I am Purushottam Kumar, a fourth year computer science undergraduate student at [NIT, Durgapur](https://nitdgp.ac.in/) 
+
+I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
+
+### Publication
+-**"Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019"**.
 
 
-Hello, I am Purushottam Kumar, a third year computer science undergraduate student at [NIT, Durgapur](https://nitdgp.ac.in/) 
+### Internship
+- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
+-**"Secure Academic certificate using blockchain"** at [NIT DUrgapur](https://nitdgp.ac.in) during May-July 2020.
 
-I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm.  
+### Academic Projects
+- **Completed a project on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
+- **Completed a project on 'Water marking in images'.**
+- **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) during Aug-Oct 2019.
+
 
 ###  Interest
 - Machine Learning
 - Competitive Coding
 
 
-### Internship
-- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
-
-### Academic Projects
-- **Currently working on Blockchain.**
-- **Completed a project on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) from 10th Dec, 2019.
-- **Completed a project on 'Water marking in images'.**
-- **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) from Aug 2019 to Oct 2019.
-
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
-- Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2.
+- Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2, Solidity.
 - Good knowledge of working on Linux and Windows Operation systems.
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,
 Libre Office, Latex.
@@ -30,16 +32,17 @@ Libre Office, Latex.
 ### Featured Skills:
 - Stegnography
 - Cryptography
+- Blockchain
 - Game Theory
 - Deep Learning
 
 #### Position of responsibility:
-- _Co. Management Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
-- _Convernor_ of **Think India - NIT Durgapur.**
+- _Creative Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
+- _Convener_ of **Think India - NIT Durgapur.**
 
 
 #### Extracurricular activities:
-I love watching superheroes movies. I play cricket and Table Tennis. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
+I love watching superheroes movies. I play cricket and Badminton. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
 #### My latest resume is [here](CV_Purushottam-1.pdf)
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
