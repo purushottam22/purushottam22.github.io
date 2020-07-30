@@ -42,7 +42,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 #### Extracurricular activities:
 I love watching superheroes movies. I play cricket and Badminton. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
-#### My latest resume is [here](CV_Purushottam-1.pdf)
+#### My latest resume is [here](CV_Purushottam.pdf)
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
