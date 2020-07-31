@@ -12,15 +12,13 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 ### Academic Projects
-- **Completed a project on 'Game theory'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
-- **Completed a project on 'Water marking in images'.**
+- **Completed a project on 'Seat Allocation in Examination'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
 - **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) during Aug-Oct 2019.
 
 
 ###  Interest
 - Machine Learning
 - Competitive Coding
-
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
@@ -35,6 +33,10 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Blockchain
 - Game Theory
 - Deep Learning
+
+### Honors and Awards
+- Delegate at Lokmanthan 2018.
+- Delegate at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
 
 #### Position of responsibility:
 - _Creative Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
