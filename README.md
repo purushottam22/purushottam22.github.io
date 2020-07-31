@@ -3,7 +3,7 @@ Hello, I am Purushottam Kumar, a fourth year computer science undergraduate stud
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Publication
-- **"Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019"**.
+- **[Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019](https://scholar.google.com/scholar?oi=gsb90&q=Gender%20Age%20and%20Dialect%20Recognition%20using%20Tweets%20in%20a%20Deep%20Learning%20Framework%20Notebook%20for%20FIRE%202019.&lookup=0&hl=en)**.
 
 
 ### Internship
@@ -43,7 +43,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 #### Extracurricular activities:
 I love watching superheroes movies. I play cricket and Badminton. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
-#### My latest resume is present in [college format](CV_Purushottam.pdf), and [Internshala format](PurushottamKumar_InternshalaResume.pdf).
+#### My latest resume is present in the [college format](CV_Purushottam.pdf), and in [Internshala format](CV_Purushottam.pdf).
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
