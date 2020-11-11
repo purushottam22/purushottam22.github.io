@@ -13,7 +13,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ### Academic Projects
 - **Completed a project on 'Seat Allocation in Examination'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
-- **Completed a "Biometric Verification using Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) during Aug-Oct 2019.
+- **Completed "a project on Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) during Aug-Oct 2019.
 
 
 ###  Interest
@@ -33,6 +33,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Blockchain
 - Game Theory
 - Deep Learning
+- Big Data
 
 ### Honors and Awards
 - Delegate at Lokmanthan 2018.
