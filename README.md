@@ -17,15 +17,16 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 ###  Interest
-- Machine Learning
+- Information Security
 - Competitive Coding
+- Machine Learning
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
-- Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2, Solidity.
+- Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2, Solidity, kotlin.
 - Good knowledge of working on Linux and Windows Operation systems.
-- Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex.
+- Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex, Android Studio.
 
 ### Featured Skills:
 - Stegnography
@@ -45,8 +46,13 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 #### Extracurricular activities:
-I love watching superheroes movies. I play cricket and Badminton. I follow [CNBC](https://www.cnbc.com/technology/) regularly for technical updates.
-#### My latest resume is present in the [college format](Cv_Purushottam.pdf), and in [Internshala format](CV_Purushottam.pdf).
+I love watching superheroes movies. I play cricket and Badminton. 
+
+
+#### Resume
+- [Resume 1 ](Purushottam_Kumar_17IT8059.pdf)
+- [Resume 2 ](PurushottamKumar_resume.pdf)
+
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
