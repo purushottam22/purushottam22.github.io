@@ -49,9 +49,8 @@ I commit myself and ensure that I will make a positive contribution with full de
 I love watching superheroes movies. I play cricket and Badminton. 
 
 
-#### Resume
-- [Resume 1 ](Purushottam_Kumar_17IT8059.pdf)
-- [Resume 2 ](PurushottamKumar_resume.pdf)
+#### [Resume](Resume (1).pdf)
+
 
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
