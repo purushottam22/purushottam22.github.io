@@ -49,7 +49,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 I love watching superheroes movies. I play cricket and Badminton. 
 
 
-**['Resume'](https://github.com/purushottam22/purushottam22.github.io/blob/master/Resume%20(1).pdf)**
+**['Resume'](https://github.com/purushottam22/purushottam22.github.io/blob/master/Purushottam_kumar_17IT8059.pdf)**
 
 
 ### Connect With Me
