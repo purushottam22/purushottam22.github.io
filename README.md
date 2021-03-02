@@ -19,7 +19,8 @@ I commit myself and ensure that I will make a positive contribution with full de
 ###  Interest
 - Information Security
 - Competitive Coding
-- Machine Learning
+- Deep Learning
+- Algorithm
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
@@ -31,14 +32,15 @@ I commit myself and ensure that I will make a positive contribution with full de
 ### Featured Skills:
 - Stegnography
 - Cryptography
-- Blockchain
-- Game Theory
 - Deep Learning
+- Game Theory
+- Blockchain
 - Big Data
 
 ### Honors and Awards
+- Participant and oral presentation in Young Scientist COnference at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
+- Presented a model in Science Engineering Model competition at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
 - Delegate at Lokmanthan 2018.
-- Delegate at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
 
 #### Position of responsibility:
 - _Creative Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
