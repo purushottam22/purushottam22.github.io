@@ -38,6 +38,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Big Data
 
 ### Honors and Awards
+- Secured a rank of **5246** in Google HashCode Qualifier round 2021.
 - Participant and oral presentation in Young Scientist COnference at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
 - Presented a model in Science Engineering Model competition at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
 - Delegate at Lokmanthan 2018.
