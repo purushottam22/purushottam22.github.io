@@ -17,31 +17,31 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 ###  Interest
-- Information Security
-- Competitive Coding
-- Deep Learning
-- Algorithm
+- _Information Security
+- _Competitive Coding
+- _Deep Learning
+- _Algorithm
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
-- Good knowledge of Programming Language : C, Cpp, Matlab, HTML, Python3, Python2, Solidity, kotlin.
+- Good knowledge of Programming Language : C, Cpp, HTML, Python, Solidity, kotlin.
 - Good knowledge of working on Linux and Windows Operation systems.
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex, Android Studio.
 
 ### Featured Skills:
-- Stegnography
-- Cryptography
-- Deep Learning
-- Game Theory
-- Blockchain
-- Big Data
+- _Stegnography
+- _Cryptography
+- _Deep Learning
+- _Game Theory
+- _Blockchain
+- _Big Data
 
 ### Honors and Awards
-- Secured a rank of **5246** in Google HashCode Qualifier round 2021.
-- Participant and oral presentation in Young Scientist COnference at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
-- Presented a model in Science Engineering Model competition at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
-- Delegate at Lokmanthan 2018.
+- Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
+- Participant and oral presentation in _Young Scientist Conference_ at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
+- Presented a model in _Science Engineering Model competition_ at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
+- Delegate at _Lokmanthan_ 2018.
 
 #### Position of responsibility:
 - _Creative Head_ of Hindi club **[‘DARPAN’](https://www.facebook.com/darpan.nitdgp/)**.
