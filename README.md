@@ -20,7 +20,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - _Information Security_
 - _Competitive Coding_
 - _Deep Learning_
-- _Algorithm_
+
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
@@ -32,6 +32,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 ### Featured Skills:
 - _Stegnography_
 - _Cryptography_
+- _Algorithm_
 - _Deep Learning_
 - _Game Theory_
 - _Blockchain_
