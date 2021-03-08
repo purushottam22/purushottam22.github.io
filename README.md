@@ -17,10 +17,10 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 ###  Interest
-- _Information Security
-- _Competitive Coding
-- _Deep Learning
-- _Algorithm
+- _Information Security_
+- _Competitive Coding_
+- _Deep Learning_
+- _Algorithm_
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
@@ -30,12 +30,12 @@ I commit myself and ensure that I will make a positive contribution with full de
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex, Android Studio.
 
 ### Featured Skills:
-- _Stegnography
-- _Cryptography
-- _Deep Learning
-- _Game Theory
-- _Blockchain
-- _Big Data
+- _Stegnography_
+- _Cryptography_
+- _Deep Learning_
+- _Game Theory_
+- _Blockchain_
+- _Big Data_
 
 ### Honors and Awards
 - Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
