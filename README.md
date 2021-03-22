@@ -39,6 +39,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - _Big Data_
 
 ### Honors and Awards
+- Secured a _Global rank_ **3046** in Google Kickstart 2021.
 - Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
 - Participant and oral presentation in _Young Scientist Conference_ at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
 - Presented a model in _Science Engineering Model competition_ at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
@@ -50,7 +51,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 
 #### Extracurricular activities:
-I love watching superheroes movies. I play cricket and Badminton. 
+I love watching superheroes movies. I play cricket and Badminton.
 
 
 **[Resume](https://github.com/purushottam22/purushottam22.github.io/blob/fc41bf165e73758765012dbacc3c7dda74802ee3/Purushottam_kumar.pdf)**
@@ -58,8 +59,10 @@ I love watching superheroes movies. I play cricket and Badminton.
 
 **[Cover Letter](https://github.com/purushottam22/purushottam22.github.io/blob/245dc162dcce6be5476eebd75dced93c012e605c/cover_letter.pdf)**
 
+
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
 - [Twitter](https://twitter.com/Purushottam_nit)
 - [Facebook](https://www.facebook.com/purushottam22111999?ref=bookmarks)
+- [Github](https://github.com/purushottam22)
