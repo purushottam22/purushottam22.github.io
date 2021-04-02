@@ -39,7 +39,6 @@ I commit myself and ensure that I will make a positive contribution with full de
 - _Big Data_
 
 ### Honors and Awards
-- Secured a _Global rank_ **3049** in Google Kickstart 2021.
 - Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
 - Participant and oral presentation in _Young Scientist Conference_ at [Indian Internation Science Festival 2020](https://iisfvirtual.in/)
 - Presented a model in _Science Engineering Model competition_ at [Indian International Science festival 2019](https://www.scienceindiafest.org/).
