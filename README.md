@@ -8,8 +8,8 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ### Internship
 - **"Secure Academic certificate using blockchain"** at [NIT Durgapur](https://nitdgp.ac.in) during May-July 2020.
-- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) in 14th may -10th july 2019.
-
+- **“Author Profiling in Social media based dataset using Deep learning techniques”** at [IIT Patna](https://www.iitp.ac.in/) during 14th May -10th July 2019.
+- **"Ethical hacking internship"** at Tutedude during May - June 2021.
 
 ### Academic Projects
 - **Completed a project on 'Seat Allocation in Examination'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
@@ -36,7 +36,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - _Deep Learning_
 - _Game Theory_
 - _Blockchain_
-- _Big Data_
+- _Ethical Hacking_
 
 ### Honors and Awards
 - Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
