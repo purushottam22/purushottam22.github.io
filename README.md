@@ -25,7 +25,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
-- Good knowledge of Programming Language : C, Cpp, HTML, Python, Solidity, kotlin.
+- Good knowledge of Programming Language : C, Cpp, HTML, Python, Java, Solidity.
 - Good knowledge of working on Linux and Windows Operation systems.
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex, Android Studio.
 
