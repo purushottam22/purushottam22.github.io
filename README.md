@@ -3,7 +3,7 @@ Hello, I am Purushottam Kumar, a fourth year computer science undergraduate stud
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Work Experience
-- **Trainee - Software Engineer** at _Innominds Software Pvt Ltd_ inn Big data and analytics department.
+- **Trainee - Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) inn Big data and analytics department.
 
 
 ### Publication
