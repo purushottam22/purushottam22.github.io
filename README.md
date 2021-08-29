@@ -60,6 +60,4 @@ I love watching superheroes movies. I play cricket and Badminton.
 ### Connect With Me
 - [Email](mailto:kumarpurushottam062@gmail.com/)
 - [LinkedIn](https://www.linkedin.com/in/purushottam-kumar-29006017a)
-- [Twitter](https://twitter.com/Purushottam_nit)
-- [Facebook](https://www.facebook.com/purushottam22111999?ref=bookmarks)
 - [Github](https://github.com/purushottam22)
