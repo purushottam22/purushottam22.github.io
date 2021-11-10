@@ -1,9 +1,9 @@
-Hello, I am Purushottam Kumar, a fourth year computer science undergraduate student at [NIT, Durgapur](https://nitdgp.ac.in/) 
+Hello, I am Purushottam Kumar, a Software Engineer in Data Science.
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Work Experience
-- **Trainee - Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department.
+- **Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
 
 
 ### Publication
