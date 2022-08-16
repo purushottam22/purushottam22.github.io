@@ -3,7 +3,7 @@ Hello, I am Purushottam Kumar, a Software Engineer ( Data Scientist ) in Data Sc
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Work Experience
-- **Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
+- **Associate Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
 
 
 ### Publication
