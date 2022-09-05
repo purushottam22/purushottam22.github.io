@@ -17,31 +17,33 @@ I commit myself and ensure that I will make a positive contribution with full de
 - **"Ethical hacking internship"** at Tutedude during May - June 2021.
 
 ### Academic Projects
+- **Time series froecasting for energy consumption with python**
 - **Completed a project on 'Seat Allocation in Examination'** at [NIT, Durgapur](https://nitdgp.ac.in/) during Dec, 2019.
 - **Completed "a project on Steganography and Cryptography"** at [NIT, Durgapur](https://nitdgp.ac.in/) during Aug-Oct 2019.
 
 
 ###  Interest
+- _Machine Learning_
 - _Information Security_
 - _Competitive Coding_
-- _Machine Learning_
+
 
 
 #### Technical Skills:
 - Leadership qualities, Good communication skills, Hardworking and team working spirit.
 - Flexible and adaptable, regular, self-disciplined and goal-oriented person.
-- Good knowledge of Programming Language : C, Cpp, HTML, Python, Java, Solidity.
+- Good knowledge of Programming Language : C, Cpp, HTML, Python.
 - Good knowledge of working on Linux and Windows Operation systems.
 - Good command on Microsoft Office Word, Microsoft Office Excel, Microsoft Office Power Point,Libre Office, Latex, Android Studio.
 
 ### Featured Skills:
+- _Machine Learning_
+- _Deep Learning_
+- _Natural Language Processing (NLP)_
+- _Time Series Forecasting_
 - _Stegnography_
 - _Cryptography_
-- _Algorithm_
-- _Deep Learning_
-- _Game Theory_
 - _Blockchain_
-- _Ethical Hacking_
 
 ### Honors and Awards
 - Secured a _Global rank_ **5246** in Google HashCode Qualifier round 2021.
