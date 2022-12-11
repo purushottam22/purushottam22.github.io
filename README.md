@@ -1,4 +1,4 @@
-Hello, I am Purushottam Kumar, a Software Engineer ( Data Scientist ) in Data Science. 
+Hello, I am Purushottam Kumar, a Software Engineer (Data Scientist).
 
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
