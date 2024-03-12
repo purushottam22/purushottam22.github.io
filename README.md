@@ -17,7 +17,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 
 ### Work Experience
 - **Associate Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2022.
-- - **Trainee Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
+- **Trainee Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
 
 
 ### Publication
