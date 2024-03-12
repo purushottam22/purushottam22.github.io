@@ -16,12 +16,15 @@ Hello, I am Purushottam Kumar, a Software Engineer (Data Scientist).
 I commit myself and ensure that I will make a positive contribution with full devotion to achieve the goals through my knowledge, skill, hard work and enthusiasm. 
 
 ### Work Experience
-- **Associate Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
+- **Associate Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2022.
+- - **Trainee Software Engineer** at [Innominds Software Pvt Ltd](https://www.innominds.com/) in Big data and analytics department from July 2021.
 
 
 ### Publication
+- **[Secure Digital Academic Certificate Verification System using Blockchain1](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijics)**
 - **[Gender Age and Dialect Recognition using Tweets in a Deep Learning Framework-Notebook for FIRE 2019](https://scholar.google.com/scholar?oi=gsb90&q=Gender%20Age%20and%20Dialect%20Recognition%20using%20Tweets%20in%20a%20Deep%20Learning%20Framework%20Notebook%20for%20FIRE%202019.&lookup=0&hl=en)**
 - **[Biomedical Watermaking Using Arnold Transformation](https://link.springer.com/chapter/10.1007/978-981-16-2761-3_67)**
+
 
 
 ### Internship
@@ -54,6 +57,7 @@ I commit myself and ensure that I will make a positive contribution with full de
 - _Deep Learning_
 - _Natural Language Processing (NLP)_
 - _Time Series Forecasting_
+- _GenAI_
 - _Stegnography_
 - _Cryptography_
 - _Blockchain_
